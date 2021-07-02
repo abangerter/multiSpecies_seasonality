@@ -1,0 +1,3 @@
+Sample1 MS_2018_F_Zind
+Sample2 MS_2017_S_Zind
+Sample3 MS_2017_F_Zind

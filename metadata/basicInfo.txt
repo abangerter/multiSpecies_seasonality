@@ -1,0 +1,17 @@
+sampleID	Species	spring_fall	YearCollected	DateCollected (MM_DD)	NfliesInPool	Nchromosomes	SNPsPreFiltering	SNPsPostFiltering
+MS_2017_S_Dmel	D. melanogaster	spring	2017	07_20	120	240	1993855	1544453
+MS_2017_S_Dsuz	D. suzukii	spring	2017	07_20	36	72	10213176	8195100
+MS_2017_S_Zind	Z. indianus	spring	2017	08_03	189	378	6144256	4376346
+MS_2017_F_Dsuz	D. suzukii	fall	2017	09_28	37	74	10213176	8195100
+MS_2017_F_Dmel	D. melanogaster	fall	2017	10_26	299	598	1993855	1544453
+MS_2017_F_Zind	Z. indianus	fall	2017	10_26	126	252	6144256	4376346
+MS_2017_F_Dsim	D. simulans	fall	2017	10_26	65	130	4371723	3533393
+MS_2017_F_Dhyd	D. hydei	fall	2017	11_09	21	42	2897776	2294055
+MS_2018_S_Dhyd	D. hydei	spring	2018	07_05	64	128	2897776	2294055
+MS_2018_S_Dsim	D. simulans	spring	2018	07_05	82	164	4371723	3533393
+MS_2018_S_Dsuz	D. suzukii	spring	2018	07_19	32	64	10213176	8195100
+MS_2018_F_Dsuz	D. suzukii	fall	2018	09_06	46	92	10213176	8195100
+MS_2018_F_Dhyd	D. hydei	fall	2018	09_20	50	100	2897776	2294055
+MS_2018_F_Dmel	D. melanogaster	fall	2018	10_11	81	162	1993855	1544453
+MS_2018_F_Dsim	D. simulans	fall	2018	10_11	303	606	4371723	3533393
+MS_2018_F_Zind	Z. indianus	fall	2018	10_11	372	744	6144256	4376346

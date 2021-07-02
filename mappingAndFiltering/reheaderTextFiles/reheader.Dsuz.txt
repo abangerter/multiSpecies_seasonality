@@ -1,0 +1,4 @@
+Sample1 MS_2018_F_Dsuz
+Sample2 MS_2017_S_Dsuz
+Sample3 MS_2017_F_Dsuz
+Sample4 MS_2018_S_Dsuz
